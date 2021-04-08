@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Piotrek/CLionProjects/PAMSI/bank.cpp
+bank.h
+C:/Users/Piotrek/CLionProjects/PAMSI/bank.h
+
+C:/Users/Piotrek/CLionProjects/PAMSI/bank.h
+stdlib.h
+-
+string
+-
+iostream
+-
+
+C:/Users/Piotrek/CLionProjects/PAMSI/main.cpp
+iostream
+-
+bitset
+-
+cmath
+-
+bank.h
+C:/Users/Piotrek/CLionProjects/PAMSI/bank.h
+stdlib.h
+-
+conio.h
+-
+cstdlib
+-
+fstream
+-
+chrono
+-
+

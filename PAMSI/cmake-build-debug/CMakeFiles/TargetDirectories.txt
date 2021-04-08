@@ -1,0 +1,3 @@
+C:/Users/Piotrek/CLionProjects/PAMSI/cmake-build-debug/CMakeFiles/PAMSI.dir
+C:/Users/Piotrek/CLionProjects/PAMSI/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Piotrek/CLionProjects/PAMSI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
